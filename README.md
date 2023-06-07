@@ -11,7 +11,7 @@ Welcome to the Android Musical Artists Application repository! This project demo
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/android-musical-artists.git`
+1. Clone the repository: `git clone https://github.com/4rzumanyan/GraphQLMusicalArtistsApplication.git`
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
 
